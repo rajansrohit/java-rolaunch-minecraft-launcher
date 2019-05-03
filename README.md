@@ -5,7 +5,7 @@ Chose either .exe or .jar. The only difference is that the .exe has a cool favic
 
 .jar has been updated with libraries to work alon, instead of libraries installed. Should work on new computers now.
 
-RoLaunch v2 adds username autologin and had been reoptimized.However, libraries may not instal correctly at school.
+RoLaunch v2 adds username autologin and had been reoptimized. However, libraries may not instal correctly at school.
 
 *Don't use the .exe. It hasn't been updated.*
 
@@ -23,6 +23,7 @@ This generally happens in RoLaunch v2 whiel setting up inintially. Select Edit P
 
 **Inconsistent Libraries Error**
 ```
-Gave up trying to download *HTTP URL*
+Gave up trying to download
 Job 'Resources' finished successfully
 ```
+Symptoms of this error includes the compiling bar loading to the end, and then, dissapearing shortly after. No window opens for Java Minecraft and it's stuck at the launcher. This is generally caused by inconsistency in the libraries or access to the libraries is restricted. In this case, RoLaunch v2 can install the correct libraries or the posting the text from the Development tab in the GitHub issues can provide personal response.  
