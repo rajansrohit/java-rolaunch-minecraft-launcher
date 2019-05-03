@@ -12,4 +12,5 @@ RoLaunch v2 adds username autologin and had been reoptimized.However, libraries 
 # Error and Exception Fix
 
 `Error: Could not create the Java Virtual Machine.`
+
 `Error: A fatal exception has occurred. Program wil exit.` 
