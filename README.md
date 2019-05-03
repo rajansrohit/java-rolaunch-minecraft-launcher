@@ -5,4 +5,6 @@ Chose either .exe or .jar. The only difference is that the .exe has a cool favic
 
 .jar has been updated with libraries to work alon, instead of libraries installed. Should work on new computers now.
 
+RoLaunch v2 adds username autologin and had been reoptimized.However, libraries may not instal correctly at school.
+
 *Don't use the .exe. It hasn't been updated.*
