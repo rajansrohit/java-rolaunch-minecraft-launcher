@@ -8,3 +8,8 @@ Chose either .exe or .jar. The only difference is that the .exe has a cool favic
 RoLaunch v2 adds username autologin and had been reoptimized.However, libraries may not instal correctly at school.
 
 *Don't use the .exe. It hasn't been updated.*
+
+# Error and Exception Fix
+
+`Error: Could not create the Java Virtual Machine.`
+`Error: A fatal exception has occurred. Program wil exit.` 
