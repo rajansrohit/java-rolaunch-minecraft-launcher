@@ -14,3 +14,6 @@ RoLaunch v2 adds username autologin and had been reoptimized.However, libraries 
 Error: Could not create the Java Virtual Machine.
 Error: A fatal exception has occurred. Program wil exit.
 ```
+
+This generally happens in RoLaunch v2 whiel setting up inintially. Select Edit Profile. Under Java Settings (Advanced), enable JVM arguments, and clear all text in the text box.
+*This launcher doesn not support reallocation of RAM at the moment.*
