@@ -1,0 +1,92 @@
+langcode: "it"
+description: "Italiano (it)"
+minecraft.language.exists: true
+minecraft.language.code: "it_IT"
+
+button.ok: "Ok"
+button.save: "Salva"
+button.update: "Aggiornamento"
+button.cancel: "Annulla"
+update.title.updateavail: "Update del launcher disponibile!"
+login.tab.main: "Principale"
+login.tab.main.title: "---- Nome utente ----"
+login.tab.main.save: "Salva nome utente"
+login.tab.main.delete: "Cancella nome utente"
+login.tab.main.play: "Gioca"
+login.tab.options: "Opzioni"
+login.tab.options.auto: "<html>Login automatico con questo nome utente<br><i>(Una volta loggato automaticamente, clicca 'Log Out' per tornare a questa schermata)</i>"
+login.msg.saved: "Riavvia il launcher per applicare la nuova lingua"
+login.msg.blank.1: "Non hai inserito un nome utente!"
+login.msg.blank.2: "Per favore riprova!"
+login.msg.auto.1: "Cliccando gioca sarai loggato automaticamente"
+login.msg.auto.2.1: "con l'utente "
+login.msg.auto.2.2: " ogni volta che avvierai il Launcher Shiginima."
+login.msg.auto.3: "Per tornare a questa schermata, clicca semplicemente 'Log out' una volta loggato."
+main.button.newprof: "Nuovo profilo"
+main.button.editprof: "Modifica profilo"
+main.button.play: "Gioca"
+main.button.logout: "Log Out"
+main.button.web: "Sito del Launcher"
+main.tab.news: "Pubblicità"
+main.tab.mcnews: "Novità SkaiaCraft"
+main.tab.devcons: "Console di sviluppo"
+main.tab.peditor: "Editor profili"
+main.tab.peditor.vname: "Nome versione"
+main.tab.peditor.v: "Versione"
+main.tab.peditor.user: "Nome utente"
+main.tab.lve: "Versione locale dell'editor (NYI)"
+main.tab.lve.vname: "Nome versione"
+main.tab.lve.vtype: "Tipo versione"
+main.tab.lve.rdate: "Data di rilascio"
+main.tab.lve.lmod: "Ultima modifica"
+main.tab.lve.lcount: "Conteggio librerie"
+main.tab.lve.sstatus: "Stato sync"
+main.pe.title: "Editor profili"
+main.pe.pinfo: "Informazioni profilo"
+main.pe.pname: "Nome profilo:"
+main.pe.gamedir: "Directory del gioco:"
+main.pe.snapshot: "Attiva snapshots (Versioni di sviluppo sperimentali)"
+main.pe.usever: "Usa versione:"
+main.pe.res: "Risoluzione"
+main.pe.vis: "Visibilità launcher"
+main.pe.jset: "Settaggi Java (Avanzato)"
+main.pe.exec: "Eseguibile:"
+main.pe.jvmarg: "Argomenti JVM"
+main.pe.button.cancel: "Annulla"
+main.pe.button.opendir: "Apri cartella di gioco"
+main.pe.button.save: "Salva profilo"
+
+
+button.restart: "Riavvia"
+login.tab.options.restart: "Riavvio del launcher"
+login.tab.options.restart.msg: "È necessario un riavvio per applicare le modifiche. Riavvia ora?"
+main.pe.vertitle: "Versione selezionata:"
+main.pe.veruse: "Versione in uso:"
+main.pe.verlatest: "Usa ultima versione"
+main.pe.mrt.dev.popup: "Sei sicuro di voler attivare gli snapshots?\nLa stabilità non è garantita è può danneggiare il tuo salvataggio.\nÈ consigliato usare una directory differente o creare copie di backups."
+
+main.pe.mrt.old.popup: "Queste versioni sono datate e possono essere instabili. Bug, crashe, caratteristiche mancanti e\naltre cose brutte non saranno mai corrette in queste versioni.\nPer evitare problemi è fortemente consigliato giocare in directory differenti.\nNoi non siamo responsabili per danni alla tua nostalgia o ai tuoi file di salvataggio!"
+
+main.pe.mrt.snap: "Attiva versioni di sviluppo sperimentali (\"snapshots\")"
+main.pe.mrt.oldbeta: "Permetti l'uso delle versioni \"Beta\" di Minecraft (dal 2010-2011)"
+main.pe.mrt.oldalpha: "Permetti l'uso delle versioni \"Alpha\" di Minecraft (dal 2010)"
+main.pe.mrt.snap.popup: "Sei sicuro di voler attivare gli snapshots?\nLa stabilità non è garantita è può danneggiare il tuo salvataggio.\nÈ consigliato usare una directory differente o creare copie di backups."
+main.pe.mrt.oldbeta.popup: "Queste versioni sono datate e possono essere instabili. Bug, crashe, caratteristiche mancanti e\naltre cose brutte non saranno mai corrette in queste versioni.\nPer evitare problemi è fortemente consigliato giocare in directory differenti.\nNoi non siamo responsabili per danni alla tua nostalgia o ai tuoi file di salvataggio!"
+main.pe.mrt.oldalpha.popup: "Queste versioni sono datate e possono essere instabili. Bug, crashe, caratteristiche mancanti e\naltre cose brutte non saranno mai corrette in queste versioni.\nPer evitare problemi è fortemente consigliato giocare in directory differenti.\nNoi non siamo responsabili per danni alla tua nostalgia o ai tuoi file di salvataggio!"
+main.tab.pe.add: "Nuovo profilo"
+main.tab.pe.copy: "Copia profilo"
+main.tab.pe.delete: "Elimina profilo"
+
+
+login.tab.options.autolang: "Automatically set the minecraft language to the launcher language (If available)"
+
+#SkaiaCraft Launcher Language File
+#
+#FOR TRANSLATORS
+#Simply place the translated text within the quotes.
+#Be sure to keep formatting such as HTML code, as well as punctuation and escape characters!
+#EXAMPLE BELOW:
+# Let's say you want to translate the below to another language:
+# login.msg.auto.3: "To get back to this login screen, simply click 'Log out' once logged in.""
+# 
+# To translate the string, simple edit the words while leaving the punctuation.

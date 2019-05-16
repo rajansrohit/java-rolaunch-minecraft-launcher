@@ -1,0 +1,94 @@
+langcode: "vi"
+description: "Vietnamese (vi)"
+minecraft.language.exists: true
+minecraft.language.code: "vi_VN"
+
+button.ok: "Đồng ý"
+button.save: "Lưu"
+button.update: "Cập Nhật"
+button.cancel: "Hủy"
+update.title.updateavail: "Đã có phiên bản mới!"
+login.tab.main: "Tài Khoản"
+login.tab.main.title: "---- Tên Đăng Nhập ----"
+login.tab.main.save: "Lưu Tài Khoản"
+login.tab.main.delete: "Xóa"
+login.tab.main.play: "Chơi"
+login.tab.options: "Tùy Chọn"
+login.tab.options.auto: "<html>Tự động đăng nhập với tên đã chọn<br><i>(Một khi đã đăng nhập, bấm đăng xuất để quay lại màn hình đăng nhập)</i>"
+login.msg.saved: "Bạn phải khởi động lại chương trình này để đổi ngôn ngữ!"
+login.msg.blank.1: "Bạn không được để tên trống!"
+login.msg.blank.2: "Vui lòng thử lại!"
+login.msg.auto.1: "Khi bạn bấm chơi, bạn sẽ được tự động đăng nhập"
+login.msg.auto.2.1: "Vào tài khoản"
+login.msg.auto.2.2: " Mỗi lần bạn chạy chương trình Shiginima."
+login.msg.auto.3: "để quay lại màn hình đăng nhập này, chỉ cần bấm đăng xuất một khi đã đăng nhập."
+main.button.newprof: "Tài khoản mới"
+main.button.editprof: "Chỉnh sửa tài khoản"
+main.button.play: "Chơi"
+main.button.logout: "Đăng xuất"
+main.button.web: "Trang Web của chương trình"
+main.tab.news: "Sự đề xướng"
+main.tab.mcnews: "Tin tức từ SkaiaCraft"
+main.tab.devcons: "Nhật ký hoạt động"
+main.tab.peditor: "Chỉnh sửa tài khoản"
+main.tab.peditor.vname: "Tên phiên bản"
+main.tab.peditor.v: "Phiên bản"
+main.tab.peditor.user: "Tên đăng nhập"
+main.tab.lve: "Biên tập phiên bản (NYI)"
+main.tab.lve.vname: "Tên phiên bản"
+main.tab.lve.vtype: "Loại phiên bản"
+main.tab.lve.rdate: "Ngày ra phiên bản"
+main.tab.lve.lmod: "Lần chỉnh sửa cuối"
+main.tab.lve.lcount: "Bộ đếm thư mục"
+main.tab.lve.sstatus: "Tình trạng đồng bộ"
+main.pe.title: "Chình sửa tài khoản"
+main.pe.pinfo: "Thông tin tài khoản"
+main.pe.pname: "tên tài khoản:"
+main.pe.gamedir: "Vị trí của game:"
+main.pe.snapshot: "Cho phép phiên bản từ nhà sản xuất"
+main.pe.usever: "Dùng phiên bản:"
+main.pe.res: "Độ phân giải"
+main.pe.vis: "Thời gian xuất hiện của chương trình"
+main.pe.jset: "Cài đặt Java (Nâng cao)"
+main.pe.exec: "Phát sinh:"
+main.pe.jvmarg: "Giấy phép của JVM"
+main.pe.button.cancel: "Hủy"
+main.pe.button.opendir: "Mở folder game"
+main.pe.button.save: "Lưu tài khoản"
+
+
+button.restart: "Khởi động lại"
+login.tab.options.restart: "Khởi động lại chương trình"
+login.tab.options.restart.msg: "Để áp dụng những thay đổi, chương trình cần khởi động lại. Khởi động ngay?"
+main.pe.vertitle: "Chọn phiên bản:"
+main.pe.veruse: "Dùng phiên bản:"
+main.pe.verlatest: "Dùng phiên bản mới nhất"
+main.pe.mrt.dev.popup: "Bạn có chắc chắn muốn dùng phiên bản từ nhà sản xuất?\nNó không được chắc chắn là ổn định và có thể gây hư hỏng cho thế giới cảu bạn\nChúng tôi khuyên bạn nên chạy nó ở thư mục khác hoặc lưu trữ những thế giới cũ lại."
+main.pe.mrt.old.popup: "Những phiên bản này đã hết hạn và có thể không ổn định. Bất cứ lỗi nào đều không được sửa trong phiên bản này.\nChúng tôi khuyên bạn nên chạy nó ở thư mục khác để tránh gây hư hỏng.\nChúng tôi không chịu trách nhiệm về hư hỏng của bạn!"
+main.pe.mrt.snap: "Cho phép phiên bản từ nhà sản xuất"
+main.pe.mrt.oldbeta: "Cho phép chạy phiên bản Minecraft \"beta\" (Từ 2010-2011)"
+main.pe.mrt.oldalpha: "Cho phép chạy phiên bản Minecraft \"Alpha\"(Từ 2010)"
+main.pe.mrt.snap.popup: "Bạn có chắc chắn muốn dùng phiên bản từ nhà sản xuất?\nNó không được chắc chắn là ổn định và có thể gây hư hỏng cho thế giới cảu bạn\nChúng tôi khuyên bạn nên chạy nó ở thư mục khác hoặc lưu trữ những thế giới cũ lại."
+main.pe.mrt.oldbeta.popup: "Những phiên bản này đã hết hạn và có thể không ổn định. Bất cứ lỗi nào đều không được sửa trong phiên bản này.\nChúng tôi khuyên bạn nên chạy nó ở thư mục khác để tránh gây hư hỏng.\nChúng tôi không chịu trách nhiệm về hư hỏng của bạn!"
+main.pe.mrt.oldalpha.popup: "Những phiên bản này đã hết hạn và có thể không ổn định. Bất cứ lỗi nào đều không được sửa trong phiên bản này.\nChúng tôi khuyên bạn nên chạy nó ở thư mục khác để tránh gây hư hỏng.\nChúng tôi không chịu trách nhiệm về hư hỏng của bạn!"
+main.tab.pe.add: "Thêm tài khoản"
+main.tab.pe.copy: "Sao chép tài khoản"
+main.tab.pe.delete: "Xóa tài khoản"
+
+
+login.tab.options.autolang: "Automatically set the minecraft language to the launcher language (If available)"
+
+
+#SkaiaCraft Launcher Language File
+#
+#FOR TRANSLATORS
+#Simply place the translated text within the quotes.
+#Be sure to keep formatting such as HTML code, as well as punctuation and escape characters!
+#EXAMPLE BELOW:
+# Let's say you want to translate the below to another language:
+# login.msg.auto.3: "To get back to this login screen, simply click 'Log out' once logged in.""
+# 
+# To translate the string, simple edit the words while leaving the punctuation.
+#
+# FROM TRANSLATOR "M4ttth3b3st": i use "unikey" to Write VIETNAMESE , this is VIETNAMESE you can found it here:
+# www.unikey.org

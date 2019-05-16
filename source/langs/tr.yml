@@ -1,0 +1,92 @@
+langcode: "tr"
+description: "Türkçe (tr)"
+minecraft.language.exists: true
+minecraft.language.code: "tr_TR"
+
+button.ok: "Tamam"
+button.save: "Kaydet"
+button.update: "Guncelle"
+button.cancel: "Iptal"
+update.title.updateavail: "Bir baslatici guncellemesi var!"
+login.tab.main: "Ana"
+login.tab.main.title: "---- Kullanici Adi ----"
+login.tab.main.save: "K. Adini kaydet"
+login.tab.main.delete: "K. Adini sil"
+login.tab.main.play: "Oyna"
+login.tab.options: "Ayarlar"
+login.tab.options.auto: "<html>Secili kullanici adiyla otomatik giris yap<br><i>(Otomatik giris aktifken 'Cikis Yap' tusuna basarak bu ekrana donebilirsin)</i>"
+login.msg.saved: "Dil degisiklikleri icin baslaticiyi tekrar ac!"
+login.msg.blank.1: "Bos kullanici adi girdin!"
+login.msg.blank.2: "Tekrar dene!"
+login.msg.auto.1: "Oyna'ya bastigin zaman otomatik olarak giris yapacaksin"
+login.msg.auto.2.1: "Kullanici'ya "
+login.msg.auto.2.2: " her Shiginima baslaticisini actigin zaman."
+login.msg.auto.3: "Bu ekrana geri donmek icin 'Cikis yap' tusuna bas."
+main.button.newprof: "Yeni Profil"
+main.button.editprof: "Profili duzenle"
+main.button.play: "Oyna"
+main.button.logout: "Cikis Yap"
+main.button.web: "Baslatici Sitesi"
+main.tab.news: "Reklâm"
+main.tab.mcnews: "SkaiaCraft Haberleri"
+main.tab.devcons: "Gelistirici Konsolu"
+main.tab.peditor: "Profil Duzenleyici"
+main.tab.peditor.vname: "Surum Adi"
+main.tab.peditor.v: "Surum"
+main.tab.peditor.user: "Kullanici Adi"
+main.tab.lve: "Dahili Profil Duzenleyici (NYI)"
+main.tab.lve.vname: "Surum Adi"
+main.tab.lve.vtype: "Surum Tipi"
+main.tab.lve.rdate: "Cikis Tarihi"
+main.tab.lve.lmod: "Son Duzenleme"
+main.tab.lve.lcount: "Kitaplik Sayisi"
+main.tab.lve.sstatus: "Esitleme Durumu"
+main.pe.title: "Profil Duzenleyici"
+main.pe.pinfo: "Profil Hakkinda"
+main.pe.pname: "Profil Adi:"
+main.pe.gamedir: "Oyun Dizini:"
+main.pe.snapshot: "Snapshot'larý aktif et"
+main.pe.usever: "Surumu kullan:"
+main.pe.res: "Cozunurluk"
+main.pe.vis: "Baslatici Gorunurlugu"
+main.pe.jset: "Java Ayarlari (Gelismis)"
+main.pe.exec: "Calistir:"
+main.pe.jvmarg: "JVM Argumentleri"
+main.pe.button.cancel: "Iptal"
+main.pe.button.opendir: "Oyun Klasörünü ac"
+main.pe.button.save: "Profili Kaydet"
+
+
+button.restart: "Yeniden Baslat"
+login.tab.options.restart: "Baslaticiyi yeniden ac"
+login.tab.options.restart.msg: "Ayarlari uygulamak icin baslaticiyi yeniden acmak gerekli. Yeniden baslat?"
+main.pe.vertitle: "Surum Seçenegi:"
+main.pe.veruse: "Surumu kullan:"
+main.pe.verlatest: "Son surumu kullan"
+main.pe.mrt.dev.popup: "Gelistirici surumleri aktif edilsin mi?\nTAm kararli surumler degiller ve dunyanizi bozabilirler.\nBunlari ayri bir dizinde calistirin ya da yedek alin."
+main.pe.mrt.old.popup: "Bu surumler cok eski ve hatalar, eksiklikler\nduzeltilmeye bilir.\nBunlari baska bir dizinde oynamaniz onerilir.\nKayit dosyalarinizda olasabilecek hatalardan sorumlu degiliz!"
+main.pe.mrt.snap: "Gelismis surumleri aktif et (\"snapshotlar\")"
+main.pe.mrt.oldbeta: "Eski surumlerle oynamaya izin ver \"Beta\" Minecraft surumleri (2010-2011)"
+main.pe.mrt.oldalpha: "Eski surumlerle oynamaya izin ver \"Alpha\" Minecraft surumleri (2010)"
+main.pe.mrt.snap.popup: "Gelistirici surumleri aktif edilsin mi?\nTAm kararli surumler degiller ve dunyanizi bozabilirler.\nBunlari ayri bir dizinde calistirin ya da yedek alin."
+main.pe.mrt.oldbeta.popup: "Bu surumler cok eski ve hatalar, eksiklikler\nduzeltilmeye bilir.\nBunlari baska bir dizinde oynamaniz onerilir.\nKayit dosyalarinizda olasabilecek hatalardan sorumlu degiliz!"
+main.pe.mrt.oldalpha.popup: "Bu surumler cok eski ve hatalar, eksiklikler\nduzeltilmeye bilir.\nBunlari baska bir dizinde oynamaniz onerilir.\nKayit dosyalarinizda olasabilecek hatalardan sorumlu degiliz!"
+main.tab.pe.add: "Profil Ekle"
+main.tab.pe.copy: "Profili Kopyala"
+main.tab.pe.delete: "Profili Sil"
+
+
+login.tab.options.autolang: "Automatically set the minecraft language to the launcher language (If available)"
+
+#SkaiaCraft Launcher Language File
+#
+#FOR TRANSLATORS
+#Simply place the translated text within the quotes.
+#Be sure to keep formatting such as HTML code, as well as punctuation and escape characters!
+#EXAMPLE BELOW:
+# Let's say you want to translate the below to another language:
+# login.msg.auto.3: "To get back to this login screen, simply click 'Log out' once logged in.""
+# 
+# To translate the string, simple edit the words while leaving the punctuation.
+#
+# Translation thanks to Ertaş L. Y.
