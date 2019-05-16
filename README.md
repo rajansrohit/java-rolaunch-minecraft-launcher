@@ -3,7 +3,7 @@ A new self made launcher with a built in proxy to be used in school environments
 
 Chose either .exe or .jar. The only difference is that the .exe has a cool favicon. Howvwer, the .jar is suitable for school environments.
 
-.jar has been updated with libraries to work alon, instead of libraries installed. Should work on new computers now.
+.jar has been updated with libraries to work alone, instead of libraries installed. Should work on new computers now.
 
 RoLaunch v2 adds username autologin and had been reoptimized. However, libraries may not instal correctly at school.
 
