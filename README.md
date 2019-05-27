@@ -7,7 +7,7 @@ Chose either .exe or .jar. The only difference is that the .exe has a cool favic
 
 RoLaunch v2 adds username autologin and had been reoptimized. However, libraries may not instal correctly at school.
 
-*Don't use the .exe. It hasn't been updated. Could possibly contain exceptions*
+*Don't use the .exe. It hasn't been updated. Could possibly contain exceptions and errors*
 
 # Error and Exception Fix
 Check the Development tab in the launcher for more info on issues.
