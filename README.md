@@ -19,7 +19,7 @@ Error: A fatal exception has occurred. Program wil exit.
 ```
 
 This generally happens in RoLaunch v2 while setting up inintially. Select Edit Profile. Under Java Settings (Advanced), enable JVM arguments, and clear all text in the text box.
-*This launcher doesn not support reallocation of RAM at the moment.*
+*This launcher doesn not support reallocation of RAM.*
 
 **Inconsistent Libraries Error**
 ```
