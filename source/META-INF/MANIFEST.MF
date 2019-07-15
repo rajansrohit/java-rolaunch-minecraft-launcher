@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Version: v1.0
 Archiver-Version: Plexus Archiver
-Built-By: Nastya Shishikina
+
 Created-By: Apache Maven 3.0.5
 Build-Jdk: 1.8.0_171
 Main-Class: net.mc.main.Main
