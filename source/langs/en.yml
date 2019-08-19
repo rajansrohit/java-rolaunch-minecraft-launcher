@@ -1,4 +1,7 @@
-
+langcode: "en"
+description: "English (en)"
+minecraft.language.exists: true
+minecraft.language.code: "en_US"
 
 button.ok: "Ok"
 button.save: "Save"
@@ -74,14 +77,3 @@ main.tab.pe.delete: "Delete Profile"
 
 
 login.tab.options.autolang: "Automatically set the minecraft language to the launcher language (If available)"
-
-#SkaiaCraft Launcher Language File
-#
-#FOR TRANSLATORS
-#Simply place the translated text within the quotes.
-#Be sure to keep formatting such as HTML code, as well as punctuation and escape characters!
-#EXAMPLE BELOW:
-# Let's say you want to translate the below to another language:
-# login.msg.auto.3: "To get back to this login screen, simply click 'Log out' once logged in.""
-# 
-# To translate the string, simple edit the words while leaving the punctuation.
