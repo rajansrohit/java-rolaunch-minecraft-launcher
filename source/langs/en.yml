@@ -1,7 +1,4 @@
-langcode: "en"
-description: "English (en)"
-minecraft.language.exists: true
-minecraft.language.code: "en_US"
+
 
 button.ok: "Ok"
 button.save: "Save"
